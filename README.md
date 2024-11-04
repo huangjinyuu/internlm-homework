@@ -12,7 +12,7 @@
    - [x] 第 3 关：浦语提示词工程实践
    - [x] 第 4 关：InternLM + LlamaIndex RAG 实践
    - [x] 第 5 关：XTuner 微调个人小助手认知
-   - [ ] 第 6 关：OpenCompass 评测书生大模型实践
+   - [x] 第 6 关：OpenCompass 评测书生大模型实践
 
 3. 进阶关卡
    - [x] 第 1 关：探索书生大模型能力边界
