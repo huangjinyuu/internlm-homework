@@ -20,7 +20,7 @@
    - [x] 第 3 关：LMDeploy 量化部署进阶实践
    - [x] 第 4 关：InternVL 多模态模型部署微调实践
    - [x] 第 5 关：茴香豆：企业级知识库问答工具
-   - [ ] 第 6 关：MindSearch深度解析及实践
+   - [x] 第 6 关：MindSearch深度解析及实践
 
 4. 彩蛋
    - [ ] 书生大模型遇见 coze/dify/flowise
